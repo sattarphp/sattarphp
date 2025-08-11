@@ -1,32 +1,48 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20I'm%20Abdus%20Sattar&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20I’m%20Sattar%20–%20Full-Stack%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<!-- Short Intro -->
-## 👨‍💻 About Me  
-- 💼 Full-Stack Web Developer | WordPress & WooCommerce Expert  
-- 🚀 Currently working on custom WordPress plugins & WooCommerce solutions  
-- 🌱 Learning: React.js, Node.js  
-- 📫 Reach me: **your.email@example.com**  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-
----
-
-## 🛠️ Skills  
-<!-- Badges from skillicons.dev -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,woocommerce,react,nodejs,mysql,git,github,linux)](https://skillicons.dev)
+##  About Me
+- **Full-Stack Web Developer** specializing in **WordPress & WooCommerce**
+- Building custom plugins, themes, and full website solutions
+- Continuously learning **React.js** & **Node.js**
+- **Email**: sattar.3001@gmail.com  
+- **Portfolio / GitHub**: https://github.com/sattar3001
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+##  Tools & Technologies
+
+### Programming Languages  
+HTML5 · CSS3 · JavaScript · PHP · OOP
+
+### Backend  
+WordPress · WooCommerce · Elementor · Laravel
+
+### Databases & Queues  
+(MySQL, Redis, or relevant tools — please list specifically if applicable)
+
+### Automation & Testing  
+Postman
+
+### IDEs & Editors  
+Visual Studio Code · PyCharm · Notepad++ · Sublime Text
+
+### Version Control  
+Git · GitHub · GitLab
+
+### Operating Systems  
+Linux · Windows · Ubuntu · macOS
 
 ---
 
-## 📈 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+##  GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sattar3001&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattar3001&layout=compact&theme=tokyonight)
 
 ---
+
+*(Optional: Add “Featured Projects” with pin cards, social links, or activity graph as needed.)*
+
 
 ## 🚀 Featured Projects  
 
